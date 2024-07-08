@@ -1,35 +1,33 @@
-# ToDo List Application
+# Advanced To-Do List Web Application
 
-This is a simple ToDo List application built using React.js. It allows users to add tasks, mark them as completed, edit tasks, set due dates, and filter tasks based on their status (all, active, completed).
+This is an advanced To-Do List web application built with React. It includes features like due dates, priority levels, tags, task details in modals, dark mode, and local storage persistence. The application uses animations and stylish CSS to enhance the user experience.
 
 ## Features
 
-- **Add Task**: Users can add new tasks to the list.
-- **Edit Task**: Tasks can be edited inline.
-- **Complete Task**: Tasks can be marked as completed.
-- **Delete Task**: Users can delete tasks.
-- **Due Date**: Option to set a due date for tasks.
-- **Filter Tasks**: Tasks can be filtered based on status (all, active, completed).
-- **Dark Mode**: Toggle between light and dark modes.
+- Add, edit, and delete tasks
+- Mark tasks as complete/incomplete
+- Filter tasks by completion status
+- Search tasks by description
+- Add due dates to tasks
+- Assign priority levels to tasks (High, Medium, Low)
+- Tag tasks with categories
+- View task details in a modal
+- Dark mode toggle
+- Responsive and stylish design with animations
 
-## Technologies Used
-
-- React.js
-- JavaScript (ES6+)
-- HTML5 & CSS3 (SCSS)
-- React Icons (for iconography)
 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/your-username/advanced-todo-list.git
+   cd advanced-todo-list
 
-## Install dependencies in terminal
+## Install dependencies  
 
-npm install 
+npm install
 
-## Run the application in terminal
+## Run the application 
 
 npm start
